@@ -3,5 +3,5 @@
 
 outboard_repository=mralex07/flake-zmk-module
 outboard_ref=master
-outboard_from=config/boards/shields/anywhy_flake
+outboard_from=boards/shields/anywhy_flake
 outboard_to=boards/shields/anywhy_flake
