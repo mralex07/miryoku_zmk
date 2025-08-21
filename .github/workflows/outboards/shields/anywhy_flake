@@ -2,6 +2,6 @@
 # https://github.com/manna-harbour/miryoku
 
 outboard_repository=mralex07/flake-zmk-module
-outboard_ref=master
+outboard_ref=main
 outboard_from=boards/shields/anywhy_flake
 outboard_to=boards/shields/anywhy_flake
